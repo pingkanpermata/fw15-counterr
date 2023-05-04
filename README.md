@@ -1,1 +1,1 @@
-untuk melihat hasilnya => kikan-counter-app.netlify.app
+untuk melihat hasilnya => https://kikan-counter-app.netlify.app/
